@@ -1,0 +1,15 @@
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+G:\Git out\DZSeminarC5\DZ\03\bin\Debug\net6.0\03.exe
+G:\Git out\DZSeminarC5\DZ\03\bin\Debug\net6.0\03.deps.json
+G:\Git out\DZSeminarC5\DZ\03\bin\Debug\net6.0\03.runtimeconfig.json
+G:\Git out\DZSeminarC5\DZ\03\bin\Debug\net6.0\03.dll
+G:\Git out\DZSeminarC5\DZ\03\bin\Debug\net6.0\03.pdb
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.dll
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\refint\03.dll
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.pdb
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+G:\Git out\DZSeminarC5\DZ\03\obj\Debug\net6.0\ref\03.dll
